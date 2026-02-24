@@ -1,1 +1,169 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Khulsent Buteemj LLC - Learning</title>
 
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: Arial, sans-serif;
+    }
+
+    body {
+      background: #f4f6f9;
+      color: #333;
+    }
+
+    header {
+      background: #1e3a8a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    nav {
+      background: #2563eb;
+      display: flex;
+      justify-content: center;
+    }
+
+    nav button {
+      background: none;
+      border: none;
+      color: white;
+      padding: 15px 25px;
+      cursor: pointer;
+      font-size: 16px;
+      transition: 0.3s;
+    }
+
+    nav button:hover {
+      background: rgba(255,255,255,0.2);
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+
+    section {
+      display: none;
+    }
+
+    section.active {
+      display: block;
+    }
+
+    h2 {
+      margin-bottom: 20px;
+      color: #1e3a8a;
+    }
+
+    ul {
+      list-style: none;
+    }
+
+    ul li {
+      padding: 10px 0;
+      border-bottom: 1px solid #ddd;
+    }
+
+    ul li a {
+      text-decoration: none;
+      color: #2563eb;
+    }
+
+    ul li a:hover {
+      text-decoration: underline;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+      background: #1e3a8a;
+      color: white;
+    }
+
+    @media(max-width: 768px){
+      nav {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      nav button {
+        width: 100%;
+        text-align: center;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Khulsent Buteemj LLC</h1>
+  <p>Сургалтын ба мэдээллийн платформ</p>
+</header>
+
+<nav>
+  <button onclick="showSection('juram')">Байгууллагын журам</button>
+  <button onclick="showSection('surgalt')">Сургалтууд</button>
+  <button onclick="showSection('zagrvar')">Загвар файлууд</button>
+</nav>
+
+<div class="container">
+
+  <section id="juram" class="active">
+    <h2>Байгууллагын журам</h2>
+    <ul>
+      <li><a href="#">Дотоод журам.pdf</a></li>
+      <li><a href="#">Ажлын байрны тодорхойлолт.docx</a></li>
+      <li><a href="#">Ёс зүйн дүрэм.pdf</a></li>
+    </ul>
+  </section>
+
+  <section id="surgalt">
+    <h2>Сургалтууд</h2>
+    <ul>
+      <li><a href="#">Шинэ ажилтны сургалт</a></li>
+      <li><a href="#">ХАБЭА сургалт</a></li>
+      <li><a href="#">Борлуулалтын ур чадвар</a></li>
+    </ul>
+  </section>
+
+  <section id="zagrvar">
+    <h2>Загвар файлууд</h2>
+    <ul>
+      <li><a href="#">Гэрээний загвар.docx</a></li>
+      <li><a href="#">Тайлангийн загвар.xlsx</a></li>
+      <li><a href="#">Албан бичгийн загвар.docx</a></li>
+    </ul>
+  </section>
+
+</div>
+
+<footer>
+  © 2026 Khulsent Buteemj LLC | Бүх эрх хуулиар хамгаалагдсан
+</footer>
+
+<script>
+  function showSection(sectionId) {
+    const sections = document.querySelectorAll("section");
+    sections.forEach(section => {
+      section.classList.remove("active");
+    });
+
+    document.getElementById(sectionId).classList.add("active");
+  }
+</script>
+
+</body>
+</html>
