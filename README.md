@@ -1,25 +1,92 @@
 ---
-icon: hand-wave
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
-  tags:
-    visible: true
+description: New updates and improvements
+icon: clock-rotate-left
 ---
 
-# Урилга хуудас
+# Changelog
 
-Манай компанид санхүүгийн ажилтнаар орсон танд баяр хүргэе. Тантай хамтран ажиллахдаа бид таатай байна 👏👏👏
+{% updates format="full" %}
+{% update date="2025-12-03" %}
+## Product update
 
-Энэхүү мэдээллийн бааз нь ажилтан таныг чиглүүлэх, таны ажлыг хөнгөвчлөхөд чиглэгдсэн тул та сайтар танилцаж, өөрийн ажил үүргээ хялбарчилна гэж найдаж байна 😊😊😊
+See what’s new and improved in our latest update.
+
+### Product feature
+
+* Feature description
+* Feature description
+
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+
+<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
+
+<details>
+
+<summary>Improved</summary>
+
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+
+</details>
+
+<details>
+
+<summary>Fixed</summary>
+
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+
+</details>
+{% endupdate %}
+
+{% update date="2025-11-28" %}
+## Product update
+
+See what’s new and improved in our latest update.
+
+### Product feature #1
+
+* Feature description
+* Feature description
+
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+
+### Product feature #2
+
+* Feature description
+* Feature description
+* Feature description
+
+<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+
+<details>
+
+<summary>Improved</summary>
+
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+* Product improvement
+
+</details>
+
+<details>
+
+<summary>Fixed</summary>
+
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+* Product fix
+
+</details>
+{% endupdate %}
+{% endupdates %}
