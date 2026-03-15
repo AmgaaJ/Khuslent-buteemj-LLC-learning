@@ -1,5 +1,5 @@
 ---
-icon: hand-pointer
+icon: scale-balanced
 layout:
   width: default
   title:

@@ -1,5 +1,5 @@
 ---
-icon: image-landscape
+icon: file-circle-check
 layout:
   width: default
   title:

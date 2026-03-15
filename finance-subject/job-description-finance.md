@@ -1,5 +1,5 @@
 ---
-icon: plug-circle-plus
+icon: book-open-lines
 layout:
   width: default
   title:
