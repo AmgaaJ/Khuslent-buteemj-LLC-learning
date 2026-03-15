@@ -1,10 +1,15 @@
 # Table of contents
 
-* [Урилга хуудас](README.md)
-
-## Бүлэг <a href="#finance-subject" id="finance-subject"></a>
-
-* [Илгээх тайлан, тайлангийн хугацаа:](finance-subject/report.md)
-* [Маягтууд](finance-subject/templates.md)
-* [Анхан шатны баримтыг үнэн зөвөөр бүрдүүлэх](finance-subject/basic-financial-documents.md)
-* [Ажлын байрны тодорхойлолт - Санхүүгийн ажилтан](finance-subject/job-description-finance.md)
+* [Ерөнхий зааварчилгаа](README.md)
+* [Анхан шатны тусламж](ankhan-shatny-tuslamzh.md)
+* [Хөдөлмөр хамгаалах хэрэгсэл](kh-d-lm-r-khamgaalakh-kheregsel.md)
+* [Жолооч ажилчдын хөдөлмөрийн аюулгүй байдал](zholooch-azhilchdyn-kh-d-lm-riin-ayuulg-i-baidal/README.md)
+  * [Засварын ажлын үеийн хөдөлмөрийн аюулгүй байдал](zholooch-azhilchdyn-kh-d-lm-riin-ayuulg-i-baidal/zasvaryn-azhlyn-eiin-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Оператор ажилчдын хөдөлмөрийн аюулгүй байдал](operator-azhilchdyn-kh-d-lm-riin-ayuulg-i-baidal/README.md)
+  * [Засварын ажлын үеийн хөдөлмөрийн аюулгүй байдал](operator-azhilchdyn-kh-d-lm-riin-ayuulg-i-baidal/zasvaryn-azhlyn-eiin-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Инженер техникийн ажилтуудын хөдөлмөрийн аюулгүй байдал](inzhener-tekhnikiin-azhiltuudyn-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Замчин ажилчдын хөдөлмөрийн аюулгүй байдал](zamchin-azhilchdyn-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Шатах, тослох материалтай ажиллах үеийн хөдөлмөрийн аюулгүй байдал](shatakh-toslokh-materialtai-azhillakh-eiin-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Өргөлтийн ажлын үеийн хөдөлмөрийн аюулгүй байдал](rg-ltiin-azhlyn-eiin-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Цахилгааны ажлын хөдөлмөрийн аюулгүй байдал](cakhilgaany-azhlyn-kh-d-lm-riin-ayuulg-i-baidal.md)
+* [Өндрийн ажлын хөдөлмөрийн аюулгүй байдал](ndriin-azhlyn-kh-d-lm-riin-ayuulg-i-baidal.md)
