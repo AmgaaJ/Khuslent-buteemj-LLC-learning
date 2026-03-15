@@ -1,31 +1,12 @@
 ---
-description: Welcome to your team’s developer platform
-cover: .gitbook/assets/Screenshot 2026-02-24 122604.png
-coverY: 0
-coverHeight: 268
-layout:
-  width: wide
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: false
-  description:
-    visible: false
-  tableOfContents:
-    visible: false
-  outline:
-    visible: false
-  pagination:
-    visible: false
-  metadata:
-    visible: true
-  tags:
-    visible: true
+description: Learn more about documenting APIs in GitBook.
+icon: terminal
 ---
 
-# Developer Platform
+# Developer Platform API
 
-<h2 align="center">Энэхүү талбар нь "Хүслэнт бүтээмж" ХХК-ийн инженер, техникийн ажилчдад зориулсан сургалт, мэдээллийн бааз болно.</h2>
+GitBook automatically generates pages and endpoints for your OpenAPI spec. Fully customizable and equipped with testing capabilities, your documentation has never been more powerful.
 
-<p align="center">Тавтай морилно уу!</p>
+The API reference below is automatically generated from a demo OpenAPI spec in this space.
+
+<a href="https://gitbookio.github.io/onboarding-template-images/gitbook-petstore.yaml" class="button primary" data-icon="arrow-up-right-from-square">View OpenAPI spec</a>
