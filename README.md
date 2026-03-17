@@ -1,6 +1,5 @@
 ---
-description: Хөдөлмөрийн аюулгүй байдал, эрүүл ахуйн зааварчилгаа
-icon: shield-dog
+icon: drone
 layout:
   width: default
   title:
@@ -19,90 +18,56 @@ layout:
     visible: true
 ---
 
-# Ерөнхий зааварчилгаа
+# CHCNAV багаж холбох үлгэрчилсэн заавар
 
-{% updates format="full" %}
-{% update date="2025-12-03" %}
-## Product update
+![](.gitbook/assets/unknown.png)
 
-See what’s new and improved in our latest update.
+&#x20; Landstar аппликэйшнээ нээгээд config цэсрүү очно.
 
-### Product feature
+![](<.gitbook/assets/unknown (1).png>)
 
-* Feature description
-* Feature description
+Config цэснээс connect to instruments-ийг сонгоно.
 
-<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+![](<.gitbook/assets/unknown (2).png>)
 
-<div align="left"><figure><img src="https://gitbookio.github.io/onboarding-template-images/placeholder.png" alt=""><figcaption></figcaption></figure></div>
+Хатуу цэг дээр суурилуулсан BASE-ийн төхөөрөмжийн дугаарыг сонгож connect дарна.
 
-<details>
+![](.gitbook/assets/unknown.jpeg)
 
-<summary>Improved</summary>
+Багажаа холбоод уншиж дууссаны дараа GNSS BASE-ийг сонгоно.
 
-* Product improvement
-* Product improvement
-* Product improvement
-* Product improvement
-* Product improvement
+![](<.gitbook/assets/unknown (3).png>).
 
-</details>
+External radio нь антенн болон модем залгасан үед сонгоно.
 
-<details>
+Internal radio нь антенн болон модем залгаагүй баттерейгаар холбож байгаа үед сонгож accept дарна.
 
-<summary>Fixed</summary>
+![](<.gitbook/assets/unknown (4).png>)
 
-* Product fix
-* Product fix
-* Product fix
-* Product fix
-* Product fix
+Antenna height хэсэг дээр хатуу цэг дээр зоосон багажны өндрийн метрээр хэмжиж тавина.
 
-</details>
-{% endupdate %}
+TYPE хэсэгт байгаа VERTICAL H нь хатуу цэг дээрх багажаа эгц босоо метрээр хэмжсэн бол сонгоно. Харин SLANT H нь хатуу цэг дээрх багажаа налуулж хэмжсэн үед сонгоно.
 
-{% update date="2025-11-28" %}
-## Product update
+Select point хэсгийн list -рүү орно.
 
-See what’s new and improved in our latest update.
+![](<.gitbook/assets/unknown (5).png>)
 
-### Product feature #1
+Энэхүү list-үүд дундаас багажаа зоосон хатуу цэгийнхээ координатыг сонгоно.
 
-* Feature description
-* Feature description
+![](<.gitbook/assets/unknown (6).png>)
 
-<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+Антенны өндөр болон координатыг тохируулсаны дараа OK дарна.
 
-### Product feature #2
+![](<.gitbook/assets/unknown (7).png>)
 
-* Feature description
-* Feature description
-* Feature description
+Config цэснээс connect to instruments-ийг сонгоно.
 
-<a href="https://gitbook.com/" class="button primary">Read the documentation</a>
+![](<.gitbook/assets/unknown (8).png>)
 
-<details>
+Rover-ийнхөө төхөөрөмжийн дугаарыг сонгоод connect дарна.
 
-<summary>Improved</summary>
+Ингээд Base болон Rover FIX болно.
 
-* Product improvement
-* Product improvement
-* Product improvement
-* Product improvement
-* Product improvement
+&#x20;
 
-</details>
-
-<details>
-
-<summary>Fixed</summary>
-
-* Product fix
-* Product fix
-* Product fix
-* Product fix
-* Product fix
-
-</details>
-{% endupdate %}
-{% endupdates %}
+&#x20;
