@@ -20,5 +20,5 @@ layout:
 
 # Авто замын өндөржилт, дагуу зүсэлтийн хяналтыг Excel дээр хийх нь
 
-[https://www.youtube.com/watch?v=0xa-mA9yGKw](https://www.youtube.com/watch?v=0xa-mA9yGKw)
+{% embed url="https://www.youtube.com/watch?v=0xa-mA9yGKw" %}
 

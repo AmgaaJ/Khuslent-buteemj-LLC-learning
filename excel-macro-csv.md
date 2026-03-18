@@ -20,5 +20,5 @@ layout:
 
 # Excel олон цэг макро автоматжуулалт
 
-[https://www.youtube.com/watch?v=y16x5\_TXkYI](https://www.youtube.com/watch?v=y16x5_TXkYI)
+{% embed url="https://www.youtube.com/watch?v=y16x5_TXkYI" %}
 
