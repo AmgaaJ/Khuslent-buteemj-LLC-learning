@@ -20,5 +20,5 @@ layout:
 
 # Авто замын өндөржилт, дагуу зүсэлтийн хяналтыг Excel дээр хийх нь
 
-[https://5dworld.mn/post/18241](https://5dworld.mn/post/18241)
+[https://www.youtube.com/watch?v=0xa-mA9yGKw](https://www.youtube.com/watch?v=0xa-mA9yGKw)
 

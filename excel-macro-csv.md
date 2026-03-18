@@ -20,4 +20,5 @@ layout:
 
 # Excel олон цэг макро автоматжуулалт
 
-[https://5dworld.mn/post/14684](https://5dworld.mn/post/14684)
+[https://www.youtube.com/watch?v=y16x5\_TXkYI](https://www.youtube.com/watch?v=y16x5_TXkYI)
+
