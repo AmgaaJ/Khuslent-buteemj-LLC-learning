@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Нүүр хуудас](README.md)
+* [Мэдээллийн бааз](README.md)
