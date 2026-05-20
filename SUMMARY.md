@@ -19,3 +19,4 @@
 * [Өрөмдлөг тэсэлгээний ажил](r-mdl-g-teselgeenii-azhil.md)
 * [Хог хаягдал цэвэрлэх, объектыг ашиглалтад оруулах](khog-khayagdal-ceverlekh-obektyg-ashiglaltad-oruulakh.md)
 * [ХИЙМЭЛ БАЙГУУЛАМЖИЙН АЖИЛ](khiimel-baiguulamzhiin-azhil.md)
+* [ТӨМӨРБЕТОН ХООЛОЙН БАРИЛГА](t-m-rbeton-khooloin-barilga.md)
